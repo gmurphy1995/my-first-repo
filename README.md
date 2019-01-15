@@ -1,28 +1,22 @@
-# Large
-## small
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+# Gary Murphy
 
-- This is 
-- an unordered
-- list
+### Geography
 
-1. This 
-2. an ordered
-3. list
+I live in London
 
-Here is 'some code' in the middle of a sentence.
 
-'''
-This is 
-a block
-of code
-'''
+Three fav movies
 
-Here is how you make [a link](https://www.wikipedia.org/).
+- *Wolf of Wall Street*
+- *The Purge*
+- *Frozen*
 
-![This is an image.](https://github.com/yihui/xaringan/reales/download/v0.0.2/karl-moustache.jpg)
+## Food
 
-nano READE.md
+Last night I went to
+
+1. Dominos
+2. Pizza Union
+3. Apache Pizza
+
+Best
