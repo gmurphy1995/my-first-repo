@@ -1,3 +1,3 @@
-The Third line.
-The 4th Line
-The 4th Line
+Welcome to My Firdt Repo
+Learning Git is going well so far
+I added this line in the update-readme branch.
